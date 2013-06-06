@@ -1,0 +1,17 @@
+
+TODO
+
+ - see if we can replace the standard qml input component with meego input to avoid the keyboard bug
+ - the stations list page should show more data for each station
+ - the trains list page should show more data for each train
+ - the train page should show more information for each item
+ - in the train page, if you click a station you should go to the station view
+ - the station page needs some UI cleanup
+ - in the station page, when a train is touched, it should go to the train page?
+ - the trains information page
+ - add the proximity check
+ - when user enter the train/station page from history or nearby page, should the back button take them back to history/nearby?
+ - add a twitter page? is it really useful?
+
+ - the search box could by displayed dynamically (on pull down, like the harmattan mail app?)
+ - the view animation is slowed down or even almost killed when a lot of work is being done in onViewShown/onViewHidden.
